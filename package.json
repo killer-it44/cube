@@ -1,0 +1,16 @@
+{
+  "name": "cube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:mon": "nodemon --exec jasmine *.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.7.0",
+    "nodemon": "^2.0.7"
+  }
+}
